@@ -51,6 +51,7 @@ nav:
   - API Reference:
     - api-reference/index.md
     - Mpesa Client: api-reference/mpesa.md
+    - Callbacks: api-reference/callbacks.md
     - Response Models: api-reference/models.md
     - CLI: api-reference/cli.md
   - Guides:

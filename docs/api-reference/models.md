@@ -1,3 +1,13 @@
+# Callbacks
+
+::: safcom.callbacks.parse_stk_callback
+    handler: python
+
+::: safcom.callbacks.extract_payment_info
+    handler: python
+
+---
+
 # Response Models
 
 ## STKPushResponse
