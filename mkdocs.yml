@@ -1,0 +1,104 @@
+site_name: safcom
+site_description: M-Pesa API wrapper for Kenyan developers — STK push, callbacks, B2C, and more.
+site_url: https://allan-ngugi-nganga.github.io/safcom/
+
+theme:
+  name: material
+  icon:
+    logo: material/currency-ngn
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - toc.follow
+
+repo_url: https://github.com/Allan-Ngugi-Nganga/safcom
+repo_name: Allan-Ngugi-Nganga/safcom
+
+edit_uri: edit/main/docs/
+
+nav:
+  - Home: index.md
+  - Quickstart: quickstart.md
+  - Tutorial:
+    - tutorial/index.md
+    - STK Push: tutorial/stk-push.md
+    - Payment Status: tutorial/query-status.md
+    - Send Money (B2C): tutorial/b2c.md
+    - Account Balance: tutorial/balance.md
+    - Going Live: tutorial/production.md
+  - API Reference:
+    - api-reference/index.md
+    - Mpesa Client: api-reference/mpesa.md
+    - Response Models: api-reference/models.md
+    - CLI: api-reference/cli.md
+  - Guides:
+    - guides/index.md
+    - Error Handling: guides/errors.md
+    - Testing & Sandbox: guides/testing.md
+    - FAQ: guides/faq.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - mkdocstrings:
+      default_handler: python
+      handlers:
+        python:
+          paths: [.]
+          options:
+            show_source: true
+            show_root_heading: true
+            show_root_full_path: false
+            show_category_heading: true
+            show_if_no_docstring: true
+            show_signature_annotations: true
+            separate_signature: true
+            line_length: 80
+            docstring_style: google
+            members_order: source
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Allan-Ngugi-Nganga
+    - icon: fontawesome/brands/python
+      link: https://pypi.org/project/safcom/

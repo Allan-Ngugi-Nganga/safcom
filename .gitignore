@@ -8,6 +8,9 @@ build/
 venv/
 .env
 
+# MkDocs site output
+site/
+
 # OS
 Thumbs.db
 .DS_Store
