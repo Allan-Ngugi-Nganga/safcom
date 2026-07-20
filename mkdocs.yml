@@ -1,5 +1,5 @@
 site_name: safcom
-site_description: M-Pesa API wrapper for Kenyan developers — STK push, callbacks, B2C, and more.
+site_description: safcom - M-Pesa API wrapper for Python. STK push, Lipa Na M-Pesa, B2C payments, callbacks, and account balance for Kenyan developers.
 site_url: https://allan-ngugi-nganga.github.io/safcom/
 
 theme:

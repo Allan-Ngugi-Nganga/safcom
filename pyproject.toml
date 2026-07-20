@@ -2,9 +2,21 @@
 name = "safcom"
 version = "0.1.0"
 description = "M-Pesa API wrapper for Kenyan developers — STK push, callbacks, B2C, and more."
+keywords = [
+    "mpesa",
+    "safaricom",
+    "stk-push",
+    "lipa-na-mpesa",
+    "payment",
+    "kenya",
+    "safcom",
+    "m-pesa",
+    "b2c",
+    "api-wrapper",
+]
 readme = "README.md"
 requires-python = ">=3.10"
-license = {text = "MIT"}
+license = "MIT"
 authors = [
     {name = "Allan Ngugi Ng'ang'a", email = "allan@ngugi.work"},
 ]
