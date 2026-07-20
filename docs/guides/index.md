@@ -4,30 +4,6 @@ Practical guides for working with safcom in real-world applications.
 
 ---
 
-<div class="grid cards" markdown>
-
--   :material-alert-circle: __Error Handling__
-
-    ---
-
-    Understand and handle every error safcom can throw.
-
-    [:octicons-arrow-right-24: Read](errors.md)
-
--   :material-flask: __Testing & Sandbox__
-
-    ---
-
-    Test your integration thoroughly before going live.
-
-    [:octicons-arrow-right-24: Read](testing.md)
-
--   :material-frequently-asked-questions: __FAQ__
-
-    ---
-
-    Answers to the most common questions.
-
-    [:octicons-arrow-right-24: Read](faq.md)
-
-</div>
+- **Error Handling** — Understand and handle every error safcom can throw. [Read &rarr;](errors.md)
+- **Testing & Sandbox** — Test your integration thoroughly before going live. [Read &rarr;](testing.md)
+- **FAQ** — Answers to the most common questions. [Read &rarr;](faq.md)

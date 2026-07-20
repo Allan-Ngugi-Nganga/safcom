@@ -5,6 +5,7 @@ site_url: https://allan-ngugi-nganga.github.io/safcom/
 theme:
   name: material
   icon:
+    logo: material/alpha-s
     repo: fontawesome/brands/github
   palette:
     - scheme: default

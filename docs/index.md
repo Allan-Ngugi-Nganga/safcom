@@ -62,40 +62,10 @@ That's it. No extra dependencies to manage. No system requirements. **Works on e
 
 ## Next Steps
 
-<div class="grid cards" markdown>
-
--   :material-clock-fast: __Quickstart__
-
-    ---
-
-    Get your first payment live in under 2 minutes.
-
-    [:octicons-arrow-right-24: Get started](quickstart.md)
-
--   :material-book-open-variant: __Tutorial__
-
-    ---
-
-    Walk through every feature step by step.
-
-    [:octicons-arrow-right-24: Start the tutorial](tutorial/)
-
--   :material-api: __API Reference__
-
-    ---
-
-    Complete reference for the Mpesa client and all models.
-
-    [:octicons-arrow-right-24: Browse API docs](api-reference/)
-
--   :material-lightbulb: __Guides__
-
-    ---
-
-    Error handling, testing, common gotchas.
-
-    [:octicons-arrow-right-24: Read the guides](guides/)
-</div>
+- **Quickstart** — Get your first payment live in under 2 minutes. [Get started &rarr;](quickstart.md)
+- **Tutorial** — Walk through every feature step by step. [Start the tutorial &rarr;](tutorial/)
+- **API Reference** — Complete reference for the Mpesa client and all models. [Browse API docs &rarr;](api-reference/)
+- **Guides** — Error handling, testing, common gotchas. [Read the guides &rarr;](guides/)
 
 ---
 

@@ -4,49 +4,11 @@ Welcome to the safcom tutorial. You'll learn how to use every feature of the M-P
 
 Choose a topic to get started:
 
-<div class="grid cards" markdown>
-
--   :material-cellphone: __STK Push__
-
-    ---
-
-    Initiate Lipa Na M-Pesa Online payments and handle callbacks.
-
-    [:octicons-arrow-right-24: Read](stk-push.md)
-
--   :material-magnify: __Payment Status__
-
-    ---
-
-    Query whether a payment went through.
-
-    [:octicons-arrow-right-24: Read](query-status.md)
-
--   :material-cash: __Send Money (B2C)__
-
-    ---
-
-    Send money from your business to a customer.
-
-    [:octicons-arrow-right-24: Read](b2c.md)
-
--   :material-scale-balance: __Account Balance__
-
-    ---
-
-    Check your M-Pesa account balance programmatically.
-
-    [:octicons-arrow-right-24: Read](balance.md)
-
--   :material-rocket-launch: __Going Live__
-
-    ---
-
-    Move from sandbox to production safely.
-
-    [:octicons-arrow-right-24: Read](production.md)
-
-</div>
+- **STK Push** — Initiate Lipa Na M-Pesa Online payments and handle callbacks. [Read &rarr;](stk-push.md)
+- **Payment Status** — Query whether a payment went through. [Read &rarr;](query-status.md)
+- **Send Money (B2C)** — Send money from your business to a customer. [Read &rarr;](b2c.md)
+- **Account Balance** — Check your M-Pesa account balance programmatically. [Read &rarr;](balance.md)
+- **Going Live** — Move from sandbox to production safely. [Read &rarr;](production.md)
 
 ---
 
