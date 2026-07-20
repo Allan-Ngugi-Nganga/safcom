@@ -6,7 +6,7 @@ Practical guides for working with safcom in real-world applications.
 
 <div class="grid cards" markdown>
 
--   :material-alert-circle:{ .lg .middle } __Error Handling__
+-   :material-alert-circle: __Error Handling__
 
     ---
 
@@ -14,7 +14,7 @@ Practical guides for working with safcom in real-world applications.
 
     [:octicons-arrow-right-24: Read](errors.md)
 
--   :material-flask:{ .lg .middle } __Testing & Sandbox__
+-   :material-flask: __Testing & Sandbox__
 
     ---
 
@@ -22,7 +22,7 @@ Practical guides for working with safcom in real-world applications.
 
     [:octicons-arrow-right-24: Read](testing.md)
 
--   :material-frequently-asked-questions:{ .lg .middle } __FAQ__
+-   :material-frequently-asked-questions: __FAQ__
 
     ---
 

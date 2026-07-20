@@ -8,7 +8,7 @@ Complete reference documentation for the safcom package. All classes, methods, a
 
 <div class="grid cards" markdown>
 
--   :material-robot:{ .lg .middle } __Mpesa Client__
+-   :material-robot: __Mpesa Client__
 
     ---
 
@@ -16,7 +16,7 @@ Complete reference documentation for the safcom package. All classes, methods, a
 
     [:octicons-arrow-right-24: Reference](mpesa.md)
 
--   :material-code-json:{ .lg .middle } __Response Models__
+-   :material-code-json: __Response Models__
 
     ---
 
@@ -24,7 +24,7 @@ Complete reference documentation for the safcom package. All classes, methods, a
 
     [:octicons-arrow-right-24: Reference](models.md)
 
--   :material-console:{ .lg .middle } __CLI__
+-   :material-console: __CLI__
 
     ---
 

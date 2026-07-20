@@ -25,13 +25,13 @@ No raw JSON. No hunting for the right endpoint. No wondering why sandbox wants d
 
 The M-Pesa API is powerful but painful. Every Kenyan developer hits the same wall:
 
-:material-close-circle:{ .lg .red } **Manual authentication** — Generate a token, track expiry, refresh. Every. Single. Time.
+:material-close-circle: **Manual authentication** — Generate a token, track expiry, refresh. Every. Single. Time.
 
-:material-close-circle:{ .lg .red } **Inconsistent responses** — Sandbox and production disagree on field names, error codes, and response shapes.
+:material-close-circle: **Inconsistent responses** — Sandbox and production disagree on field names, error codes, and response shapes.
 
-:material-close-circle:{ .lg .red } **Copy-paste code** — Every project starts by copying a Medium post from 2022 that's already outdated.
+:material-close-circle: **Copy-paste code** — Every project starts by copying a Medium post from 2022 that's already outdated.
 
-:material-check-circle:{ .lg .green } **safcom** fixes all of that. One package. One `pip install`. Sensible defaults. Clear errors. Done.
+:material-check-circle: **safcom** fixes all of that. One package. One `pip install`. Sensible defaults. Clear errors. Done.
 
 ---
 
@@ -64,7 +64,7 @@ That's it. No extra dependencies to manage. No system requirements. **Works on e
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Quickstart__
+-   :material-clock-fast: __Quickstart__
 
     ---
 
@@ -72,7 +72,7 @@ That's it. No extra dependencies to manage. No system requirements. **Works on e
 
     [:octicons-arrow-right-24: Get started](quickstart.md)
 
--   :material-book-open-variant:{ .lg .middle } __Tutorial__
+-   :material-book-open-variant: __Tutorial__
 
     ---
 
@@ -80,7 +80,7 @@ That's it. No extra dependencies to manage. No system requirements. **Works on e
 
     [:octicons-arrow-right-24: Start the tutorial](tutorial/)
 
--   :material-api:{ .lg .middle } __API Reference__
+-   :material-api: __API Reference__
 
     ---
 
@@ -88,7 +88,7 @@ That's it. No extra dependencies to manage. No system requirements. **Works on e
 
     [:octicons-arrow-right-24: Browse API docs](api-reference/)
 
--   :material-lightbulb:{ .lg .middle } __Guides__
+-   :material-lightbulb: __Guides__
 
     ---
 

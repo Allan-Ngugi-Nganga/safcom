@@ -6,7 +6,7 @@ Choose a topic to get started:
 
 <div class="grid cards" markdown>
 
--   :material-cellphone:{ .lg .middle } __STK Push__
+-   :material-cellphone: __STK Push__
 
     ---
 
@@ -14,7 +14,7 @@ Choose a topic to get started:
 
     [:octicons-arrow-right-24: Read](stk-push.md)
 
--   :material-magnify:{ .lg .middle } __Payment Status__
+-   :material-magnify: __Payment Status__
 
     ---
 
@@ -22,7 +22,7 @@ Choose a topic to get started:
 
     [:octicons-arrow-right-24: Read](query-status.md)
 
--   :material-cash:{ .lg .middle } __Send Money (B2C)__
+-   :material-cash: __Send Money (B2C)__
 
     ---
 
@@ -30,7 +30,7 @@ Choose a topic to get started:
 
     [:octicons-arrow-right-24: Read](b2c.md)
 
--   :material-scale-balance:{ .lg .middle } __Account Balance__
+-   :material-scale-balance: __Account Balance__
 
     ---
 
@@ -38,7 +38,7 @@ Choose a topic to get started:
 
     [:octicons-arrow-right-24: Read](balance.md)
 
--   :material-rocket-launch:{ .lg .middle } __Going Live__
+-   :material-rocket-launch: __Going Live__
 
     ---
 
