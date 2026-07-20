@@ -4,9 +4,30 @@ version = "0.1.0"
 description = "M-Pesa API wrapper for Kenyan developers — STK push, callbacks, B2C, and more."
 readme = "README.md"
 requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Allan Ngugi Ng'ang'a", email = "allan@ngugi.work"},
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Office/Business :: Financial",
+]
 dependencies = [
     "httpx>=0.27.0",
 ]
+
+[project.urls]
+Homepage = "https://github.com/Allan-Ngugi-Nganga/safcom"
+Documentation = "https://allan-ngugi-nganga.github.io/safcom/"
+Repository = "https://github.com/Allan-Ngugi-Nganga/safcom"
+PyPI = "https://pypi.org/project/safcom/"
 
 [project.optional-dependencies]
 fastapi = ["fastapi>=0.110.0", "uvicorn>=0.29.0"]
