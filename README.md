@@ -3,9 +3,10 @@
   <em>M-Pesa API — the way it should be.</em>
   <br>
   <br>
+  <a href="https://pypi.org/project/safcom/"><img src="https://img.shields.io/pypi/v/safcom?color=10b981" alt="PyPI version"></a>
   <img src="https://img.shields.io/badge/python-≥3.10-10b981" alt="Python 3.10+">
   <img src="https://img.shields.io/badge/license-MIT-10b981" alt="MIT License">
-  <img src="https://img.shields.io/badge/version-0.1.0-10b981" alt="Version 0.1.0">
+  <a href="https://github.com/Allan-Ngugi-Nganga/safcom/actions/workflows/tests.yml"><img src="https://github.com/Allan-Ngugi-Nganga/safcom/actions/workflows/tests.yml/badge.svg" alt="Tests"></a>
   <a href="https://allan-ngugi-nganga.github.io/safcom/"><img src="https://img.shields.io/badge/docs-mkdocs-2563eb" alt="Docs"></a>
 </p>
 
